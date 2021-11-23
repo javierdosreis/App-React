@@ -1,0 +1,22 @@
+.nombre{
+    padding: 20px;
+    color: black;
+}
+
+.cuerpo {
+background-color: #AAA;
+display: flex;
+}
+.titulo {
+    text-align: center;
+    justify-content: center;
+    background-color: black;
+    color: yellow;
+}
+.imagenes{
+    display: flex;
+    justify-content: center;
+}
+.tituloparte2{
+    background-color: black;
+}
